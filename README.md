@@ -13,5 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroSyqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroSyqueira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<div> 
+<img align="right" alt="AnimeGif" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVnanRmOHV0b3RjaWN5bG55OWZib2g4am1qNGI1eDVsY2ttOThsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUoZzIyps5my2ygHMb/giphy.gif>
+</div>
 
 
