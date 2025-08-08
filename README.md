@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 - 👾 Não trabalho com nada ainda, porém estudo Java, e estou cursando ADS.
-- 🐾Eu estou aprendendo java e HTML, porém quero aprender python e outras linguagens pelo pelo um pouco.
+- 🐾Eu estou aprendendo java e HTML, porém quero aprender python e outras linguagens pelo menos um pouco.
 <div> 
 <a href-"https://github.com/PietroSyqueira">
   <img align="center" alt="Pietro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
